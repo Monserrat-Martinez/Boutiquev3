@@ -1,0 +1,11 @@
+{
+    "name": "hp/proyecto_bulma",
+    "description": "sistema con bulma",
+    "authors": [
+        {
+            "name": "Monserrat-Martinez",
+            "email": "monsemartinez171@gmail.com"
+        }
+    ],
+    "require": {}
+}

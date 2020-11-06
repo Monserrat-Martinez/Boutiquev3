@@ -1,0 +1,5 @@
+Para poder instalar bulma, segui los pasos que el profesor nos estuvo mostrando en las clases virtulaes, 
+lo primero que hicimos fue descargar todo los programa que utilizariamos
+al estar dentro del programa empece a llamar a todas las carpetas que bulma integraba, 
+y los codigos y documentos que eran necesarios para su instalasion y su correcta utilizacion.
+Asi como mis datos para la que mi proyecto estuviera correcto.
